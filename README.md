@@ -6,7 +6,10 @@ This project looks into what is the most feasible strategy for soybean yield pre
 ## Structure of the repository
 
 ### data
+
+```
 ├──Soybean_Intensification.csv : dataset used
+```
 
 ### scripts
 ```
