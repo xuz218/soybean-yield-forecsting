@@ -9,10 +9,12 @@ This project looks into what is the most feasible strategy for soybean yield pre
 ├──Soybean_Intensification.csv : dataset used
 
 ### scripts
+```
 ┌──estimator.py
 ├──evaluator.py
 ├──my_utils.py
 └──project.ipynb
+```
 
 - `estimator.py`: contains the script for establishing different classifiers
 - `evaluator.py`: contains the script for evaluating results obtained with each classifier
